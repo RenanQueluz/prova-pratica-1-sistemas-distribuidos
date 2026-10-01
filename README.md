@@ -1,1 +1,0 @@
-# prova-pratica-1-sistemas-distribuidos
